@@ -5,7 +5,7 @@ Provides directions to food distribution destination.
 Real time update on the availability.
 
 Sofware requirements:
-Android Studio
-Flutter Framework
-Firebase (Database)
-Google Maps
+Android Studio,
+Flutter Framework,
+Firebase (Database),
+Google Maps.
